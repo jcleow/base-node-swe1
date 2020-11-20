@@ -18,7 +18,9 @@
     "url": "https://github.com/rocketacademy/base-node-swe1/issues"
   },
   "homepage": "https://github.com/rocketacademy/base-node-swe1#readme",
-  "dependencies": {},
+  "dependencies": {
+    "pg": "^8.5.1"
+  },
   "devDependencies": {
     "eslint": "^7.12.1",
     "eslint-config-airbnb-base": "^14.2.0",
